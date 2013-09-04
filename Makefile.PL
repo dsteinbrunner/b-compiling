@@ -9,6 +9,8 @@ requires 'B';
 requires 'XSLoader';
 requires 'Sub::Exporter';
 
+repository 'https://github.com/rafl/b-compiling';
+
 extra_tests;
 
 WriteAll;
